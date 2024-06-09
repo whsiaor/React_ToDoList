@@ -1,19 +1,11 @@
 # React Todolist
 <img src="./static/pics/todolist.png" width="800px">
 
-
-
 ## What is it?
 This is a simple to-do list application built with React. It allows users to add and delete tasks.
 
----
-
-
-
 ## Purpose
 The main goal is to practice creating projects with React and to become more familiar with using props. Continuous updates will be made to enhance functionality.
-
----
 
 ## Installation 
 
